@@ -4,7 +4,9 @@ The ISAP-1.5 calculator is the improved version of the ISAP-1 calculator made by
 ISAP Computer stands for Improved Simple as Possible Computer.
 
 By: Lincă Marius Gheorghe,
+
 Pitești, Argeș, Romania, Europe.
+
 https://github.com/LincaMarius
 
 ## About the project, brief description

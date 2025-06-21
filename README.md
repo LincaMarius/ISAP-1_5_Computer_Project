@@ -24,5 +24,6 @@ Version 1.0 will be an implementation of the ISAP-1 computer that is as close to
 ### Step 1 – Block Diagram optimization
 The first stage of any project is drawing the Block Diagram, which allows you to visualize the overall picture of the designed system, where you can see the component blocks and the connections between them.
 
-The analysis of the Block Diagram of the ISAP-1 computer is the starting point for the creation of the ISAP-1.5 computer:
-https://github.com/LincaMarius/ISAP-1_Block_Diagram
+The analysis of the Block Diagram of the ISAP-1 computer is the starting point for the creation of the ISAP-1.5 computer:\
+https://github.com/LincaMarius/ISAP-1_5_Block_Diagram
+
